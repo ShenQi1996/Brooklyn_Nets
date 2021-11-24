@@ -1,7 +1,7 @@
 Use Axios to pull all the player and their stats.
 
 
-Use Ract and material to display and design this webpage
+Use Ract and Material UI to display and design this webpage
 
 
 
