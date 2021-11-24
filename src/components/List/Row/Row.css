@@ -1,0 +1,10 @@
+.row_Collaps {
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(173, 165, 165, 0.473);
+}
+
+.row_Collapse_h {
+  color: rgb(83, 81, 81);
+  text-align: center;
+}
